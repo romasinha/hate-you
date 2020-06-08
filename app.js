@@ -1,6 +1,6 @@
 const btn = document.querySelector('.talk');
 const content = document.querySelector('.content');
-const greeting = ["I am good sweet heart",
+const greeting = ["hate you from the core!",
                  "I don't love you, okay!",
                  "You are such a loser!",
                  "I hate you from the core"];
